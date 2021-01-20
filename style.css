@@ -1,0 +1,22 @@
+.main-text {
+    position: absolute;
+    bottom: 60%;
+    width: 100%;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: black;
+}
+
+.arrowalign:hover {
+    vertical-align: middle;
+}
+
+.overlay-div{
+    height:100%;
+    width: 100%;
+    position:absolute;
+    background-color:#000;
+    opacity: 0.5;;
+ }
