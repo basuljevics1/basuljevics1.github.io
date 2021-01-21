@@ -205,26 +205,11 @@ header .intro-text {
 	padding: 120px 0;
 	background:#583929;
 }
-#features .features-item {
-	margin: 0 20px;
+.facebook-plugin{
+	padding-right: 280px;
+	padding-bottom: 50px;
 }
-#features img {
-	margin: 30px auto 20px;
-}
-#features .about-img:before {
-	display: block;
-	content: '';
-	position: absolute;
-	top: 8px;
-	right: 8px;
-	bottom: 8px;
-	left: 8px;
-	border: 1px solid rgba(255, 255, 255, 0.5);
-}
-#features p {
-	line-height: 24px;
-	margin: 15px 0 30px;
-}
+
 /* About Section */
 #about {
 	padding: 0;
